@@ -1,0 +1,53 @@
+.ok {
+	text-align: center;
+    font-size: 1rem;
+	width: 100%;
+	padding: 12px;
+    margin-top: 10px;
+	background-color: #1e6;
+	color: #fff
+}
+
+.bad {
+	text-align: center;
+    font-size: 1rem;
+	width: 100%;
+	padding: 12px;
+    margin-top: 10px;
+	background-color: #a22;
+	color: #fff
+}
+
+.mascotas {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.mascotas-tarjeta{
+	width: 18rem; 
+	margin: 10px;
+}
+
+.img_container{
+	position: absolute; 
+	z-index: 9;
+	width: 100%;
+}
+
+.img_container img{
+	width: 100%;
+	opacity: 0.8;
+}
+
+.formulario{
+	position: relative;
+	z-index: 10;
+}
+
+footer{
+	position: relative;
+	z-index: 10;
+}
+
