@@ -4,7 +4,7 @@
     <main class="page landing-page">
         <section class="clean-block clean-hero" style="background-image:url(assets/img/tech/perrovaca2.jpg);color:rgba(9, 162, 255, 0.30);">
             <div class="text">
-                <h2>¡Hola amigos!</h2>
+                <h2>¡Hola amigos xd!</h2>
                 <p>Bienvenidos a la página web de Veterinaria Patitas Caninas, a nuestra comunidad y a nuestra familia. Estás en Veterinaria Patas y Colitas, donde cuidamos y engreímos a tus engreídos</p>
                 <button class="btn btn-outline-light btn-lg" type="button">Leer más</button>
             </div>
